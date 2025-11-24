@@ -1,6 +1,6 @@
 ---
 title: "ADS 506 — Week 5 Submission: Storytelling with Shiny"
-author: "Gagandeep Singh"
+author: "Gagandeep Singh "
 date: today
 format:
   pdf:
