@@ -20,6 +20,7 @@ execute:
 ```{r}
 #| message: false
 library(shiny)
+library(rsconnect)
 library(shinythemes)
 library(tidyverse)
 library(tsibble)
