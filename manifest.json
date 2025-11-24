@@ -1,4 +1,0 @@
-{ "version": 1, "metadata": { "appmode": "shiny", "entrypoint": "app.R" }, "packages": { "R": [ { "package": "shiny", "version": "1.7.4" }, { "package": "ggplot2", "version": "3.4.0" } ] } }
-git add manifest.json
-git commit -m "Add rsconnect manifest for deployment"
-git push
