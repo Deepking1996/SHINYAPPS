@@ -1,0 +1,1 @@
+{ "version": 1, "metadata": { "appmode": "shiny", "entrypoint": "app.R" }, "packages": { "R": [ { "package": "shiny", "version": "1.7.4" }, { "package": "ggplot2", "version": "3.4.0" } ] } }
